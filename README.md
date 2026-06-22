@@ -1,4 +1,4 @@
-# Food Logger — Mobile Frontend
+# Food Logger — Mobile Frontend (Expo App)
 
 An [Expo](https://expo.dev) React Native app for **AI-powered food and calorie logging via natural language**. Describe what you ate in plain English ("two eggs on toast and a latte") and the app estimates calories and macros, organizes them into meals, and tracks your daily totals against a target.
 
